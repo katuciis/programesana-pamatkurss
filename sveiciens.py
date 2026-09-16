@@ -1,1 +1,1 @@
-print("izmainas")
+print("nomaina sveiciena tekstu")
