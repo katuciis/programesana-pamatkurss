@@ -1,0 +1,2 @@
+print(Esmu Katrina)
+noslepums.txt
