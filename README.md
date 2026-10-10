@@ -10,3 +10,11 @@ Autors: **Katrīna Brice**
 - izvēlies visual studio code
 ## Licence
 - .md fails nav parasts fails, tāpēc ka tas satur īpašu valodu, kas ļauj vienkāršam tekstam pārvērsties par vizuāli noformētu dokumentu.
+
+# programēšana-pamatkurss
+Autors **Katrīna Brice**
+## Palaišana
+## Ergonomika
+- 
+- 
+- 
