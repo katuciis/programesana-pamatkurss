@@ -18,4 +18,7 @@ Autors **Katrīna Brice**
 - 
 - 
 - 
-str ir a; int ir b un float ir c
+# Otrā tēma 
+## 2.1
+- str ir a; int ir b un float ir c
+- daļskaitļos vajag punktu, nevis komatu, tāpēc ka komats jau ir aizņemts kā elementu atdalītājs

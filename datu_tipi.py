@@ -5,8 +5,10 @@ print(type(a))
 print(type(b))
 print(type(c))
 print(a + a)
-vards = input("Ievadi varoņa vārdu: Lācis ")
-punkti = int(input("Ievadi bāzes punktus: 10 "))
-reizinatajs = float(input("Ievadi reizinātāju: 1.5 "))
+vards = input("Ievadi varoņa vārdu: ")
+punkti = int(input("Ievadi bāzes punktus: "))
+reizinatajs = float(input("Ievadi reizinātāju: "))
 aprēķinu_kopa = punkti * reizinatajs
 print(vards, "ieguva", aprēķinu_kopa, "punktus")
+# kļūda atrodas devītajā rindā
+# ievadot ar komatu, arī rāda valuEerror
