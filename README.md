@@ -18,3 +18,4 @@ Autors **Katrīna Brice**
 - 
 - 
 - 
+str ir a; int ir b un float ir c
